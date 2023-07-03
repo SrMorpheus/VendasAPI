@@ -52,3 +52,9 @@ C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\obj\Debug\net6.0\refint\API
 C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\obj\Debug\net6.0\APIVENDAS.pdb
 C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\obj\Debug\net6.0\APIVENDAS.genruntimeconfig.cache
 C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\obj\Debug\net6.0\ref\APIVENDAS.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\NAI-UNIFAP\source\repos\APIVENDAS\APIVENDAS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

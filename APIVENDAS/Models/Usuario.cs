@@ -8,11 +8,18 @@
         public string CPF { get; set; }
         public DateTime DataNascimento { get; set; } 
         public string Email { get; set; }
-        public int EnderecoId { get; set; }
+        public int RuaId { get; set; }
         public string ComplementoEndereco { get; set; }
         public bool Ativo { get; set; }
-
         public List<TelefoneUsuario> TelefonesUsuario { get; set; }
+        public List <Produto> Produtos { get; set; }
+        public List<EntradaDeProduto> EntradaDeProdutos { get; set;}
+
+        public List<Vendas> VendasUsuario { get; set; }
+
+        public List<Estoque> EstoqueUsuario { get; set; }
+
+        public List<Historico> HistoricoUsuario { get; set; }
 
     }
 }
